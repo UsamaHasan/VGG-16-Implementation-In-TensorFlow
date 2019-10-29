@@ -1,6 +1,5 @@
-from VGG import VGG16
+from Network import Model
 from tensorflow.examples.tutorials.mnist import input_data
-from VGG import VGG16
 
 if __name__=='__main__':
 
