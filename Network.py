@@ -5,8 +5,8 @@ import time
 import os
 
 '''VGG-16 in TensorFlow'''
-class VGG16():
-    __doc__= 'VGG-16 Implementation in Tensorflow'
+class Model():
+    __doc__= 'Simple Convolutional model in Tensorflow'
 
 
     x = tf.placeholder(tf.float32 , shape = [None,28*28], name='x_axis')
