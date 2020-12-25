@@ -4,6 +4,6 @@
 
 ### Requirements.
   I tested this code on ubuntu 16, you have to install tensorflow and tensorboard on your python environment.
-  ''' pip install tensorflow==1.15 '''
-
-Also Tensorboard is used to create graph of model.
+  '''bash 
+  pip install tensorflow==1.15
+  '''
